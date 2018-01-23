@@ -9,3 +9,6 @@ write your merge message
 press "esc"
 write ":wq"
 then press enter
+
+para fusionar las ramas
+git merge prueba <-(nombre de la rama)
